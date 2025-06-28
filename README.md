@@ -1,4 +1,4 @@
-# CivicGram (voting) Prototype
+# Civvy (voting) Prototype
 
 A swipe-friendly, story-driven civic-tech prototype that helps New Yorkers discover, fact-check, and discuss local candidates & ballot issues—right in their browser or on a mobile device. Users can filter by issue, watch short candidate clips, react, and submit questions in-app.
 
