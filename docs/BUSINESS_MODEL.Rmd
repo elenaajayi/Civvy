@@ -1,0 +1,26 @@
+---
+title: "CivicGram Business Model"
+output: github_document
+---
+
+## Monetization (No Paywall on Core Data)
+
+| Revenue Stream | Details | Alignment |
+|----------------|---------|-----------|
+| **MetroPoints Pool** | City & foundation grants fund ride-credit rewards | Public-good |
+| **Campaign Dashboard** | \$49 /mo — analytics + unlimited Town-Hall Lives <br>Free tier: 3 replies / week | Affordable for grass-roots |
+| **Data Export** | \$1.99 CSV for student-org mock-ballot results | Educational |
+| **Local Ads** | Ethics-screened (small biz, libraries) <br>Shown **only after** a user views their sample ballot | Keeps info free |
+
+
+
+
+
+
+
+
+
+
+
+
+x

@@ -1,9 +1,33 @@
 {
   "expo": {
-    "name": "APP_NAME",           // <= replace later
-    "slug": "APP_SLUG",
-    "scheme": "appname",
-    "android": { "package": "com.yourorg.appname" },
-    "ios":     { "bundleIdentifier": "com.yourorg.appname" }
+    "name": "Voting App",
+    "slug": "voting-app",
+    "scheme": "voting-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.yourorg.votingapp",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.yourorg.votingapp",
+      "supportsTablet": true
+    }
   }
 }
