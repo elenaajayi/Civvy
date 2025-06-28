@@ -1,6 +1,4 @@
----
-title: "CivicGram PRD"
-output: github_document
+
 ---
 
 # 1  Elevator Pitch
