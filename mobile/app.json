@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "APP_NAME",           // <= replace later
+    "slug": "APP_SLUG",
+    "scheme": "appname",
+    "android": { "package": "com.yourorg.appname" },
+    "ios":     { "bundleIdentifier": "com.yourorg.appname" }
+  }
+}
